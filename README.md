@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @izumiCode
-- 👀 I’m interested in Programming 
+- 👀 I’m interested in Programming or tech 
 - 🌱 I’m currently learning React.js
 
 <!---
